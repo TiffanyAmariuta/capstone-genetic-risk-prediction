@@ -2,7 +2,7 @@
 layout: week
 title: Week 00
 permalink: /weeks/00-Template/
-doodle: /doodle.png
+doodle: /PRS_capstone.jpg
 ---
 
 # Week's Title
