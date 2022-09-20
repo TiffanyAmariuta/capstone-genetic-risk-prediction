@@ -64,13 +64,13 @@ end of the quarter.
 |--|--|
 |1|[Introduction to statistical genetics: genetic risk scores]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Understanding the data: genotyping and phenotyping]({{ "/weeks/02-Data" | absolute_url }})|
-|3|[eQTL identification: associating genotype and gene expression]({{ "/weeks/03-Android-Graphs" | absolute_url }})|
-|4|[Fine-mapping eQTLs using linkage disequilibrium]({{ "/weeks/04-Graph-Features" | absolute_url }})|
-|5|[Genomic annotation of eQTLs]({{ "/weeks/05-Baseline-Model" | absolute_url }})|
-|6|[Building genetic risk scores acros individuals]({{ "/weeks/06-Hindroid" | absolute_url }})|
-|7|[Do eQTLs explain genetic associations from GWAS?]({{ "/weeks/07-Graph-Embeddings-I" | absolute_url }})|
-|8|[Tissue-specificity of eQTLs]({{ "/weeks/08-Graph-Embeddings-II" | absolute_url }})|
-|9|[Transcriptome-wide association studies]({{ "/weeks/09-Adversarial-ML" | absolute_url }})|
+|3|[eQTL discovery: associating genotype and gene expression]({{ "/weeks/03-eQTL-discovery" | absolute_url }})|
+|4|[Fine-mapping eQTLs using linkage disequilibrium]({{ "/weeks/04-Fine-mapping" | absolute_url }})|
+|5|[Genomic annotation of eQTLs]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
+|6|[Building genetic risk scores acros individuals]({{ "/weeks/06-Genetic-risk-scores" | absolute_url }})|
+|7|[Do eQTLs explain genetic associations from GWAS?]({{ "/weeks/07-Colocalization" | absolute_url }})|
+|8|[Tissue-specificity of eQTLs]({{ "/weeks/08-Tissue-specificity" | absolute_url }})|
+|9|[Transcriptome-wide association studies]({{ "/weeks/09-TWAS" | absolute_url }})|
 |10|Present Proposals|
 
 ---
