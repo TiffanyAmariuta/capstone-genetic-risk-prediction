@@ -19,17 +19,17 @@ Developed by Tiffany Amariuta.
 
 A genetic risk score (GRS) or polygenic risk score (PRS) is a weighted sum of an individual's risk alleles across one's genome for a particular phenotype, i.e. disease or other measurement. The weights are typically the effect sizes of the risk allele, estimated by a genome-wide association study (in the case of complex traits / polygenic diseases) or an eQTL study (in the case of gene expression). PRS have great potential to revolutionize preventive care. In theory, an individual may arrive at the clinic not knowing their genetic susceptibility to a disease, have their DNA sequenced, and learn what is their lifetime risk for the disease. There is a theoretical liability threshold of PRS at which individuals who have a PRS value lower than the threshold will not develop the disease and those with a value higher than the threshold will develop disease. For diseases with a monogenic basis, it has been shown that the same degree of disease risk can be conferred by polygenic risk alone (Khera 2018 Nature Genetics). PRS are generally useful for understanding how predictive genetics is of disease and how disperse the genetic contributions are. PRS is especially useful in understanding genetic liability when individual effects are too small to be easily detected by genome-wide association studies (Purcell 2009 Nature). 
 
-In this capstone, students will use population genetics and genomics data to assess individual risk for disease outcomes and transcriptomic measurements. Students will learn to work with genotype data from Geuvadis and genetic association data from genome-wide association studies (GWAS) and transcriptome-wide association studies (TWAS).
+In this capstone, students will use population genetics and genomics data to assess individual risk for disease outcomes and transcriptomic measurements. Students will learn to work with genotype data from 1000Genomes and genetic association data from genome-wide association studies (GWAS) and transcriptome-wide association studies (TWAS).
 
-This domain of inquiry studies the problem of understanding computer
-code through machine learning on graphs. To approach this problem, we
-will initially focus on the problem of *malware detection* in Android
-applications.
+In this capstone, we will be trying to answer the following questions:
+* What proportion of disease-associated genetic variation is propagated through gene expression? 
+* How does genetic liability (high PRS) for gene expression correlate with genetic liability for polygenic disease?
+* What explains the missing phenotypic variance of gene expression and polygenic disease?
 
-In this domain, project proposals will be restricted to the following
-areas:
-* Computer Code Understanding (using a variety of techniques)
-* Data Driven Approaches to Malware and Cyber-Security
+To answer these questions, we will be working toward performing the following types of analysis:
+* Detection of genetic effects on gene expression (eQTL analysis)
+* Identification of disease-associated genes: colocalization analysis of eQTL and GWAS data
+* From association to causation: fine-mapping analysis of detected eQTLs
 
 This domain centers around understanding computer code as *data*. You
 will spend a significant amount of work writing parsing logic for this
