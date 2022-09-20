@@ -35,8 +35,7 @@ To answer these questions, we will be working toward performing the following ty
 
 In the first part of the capstone, we will be getting familiar with human genotype and phenotype data. While human genotyping data tends to be heavily protected due to privacy concerns and reidentification of individuals, the 1000Genomes consortium is a publicly available resource that we can work with:
 * [1000Genomes / Geuvadis Manuscript (note: do not go to http://www.geuvadis.org/)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3918453/)
-* [1000Genomes Project Page (no https)](www.internationalgenome.org/data)
-* [Data FTP site](ftp://ftp-trace.ncbi.nih.gov/1000genomes/ftp)
+* [1000Genomes Project Page (no https), see FTP site](http://www.internationalgenome.org/data)
 
 ---
 
