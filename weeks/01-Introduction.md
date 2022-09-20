@@ -10,8 +10,8 @@ doodle: /PRS_capstone.jpg
 ## Topics
 
 This week's assignments will guide you through the following topics:
-* How graphs can capture/summarize code functionality.
-* How machine learning can identify malware via graphs.
+* What are polygenic risk scores and how can they help us understand genetic susceptibility to disease.
+* Why polygenic risk scores have the potential to improve preventive medicine.
 
 ## Reading
 
