@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Week 02
-permalink: /weeks/02-Data/
+title: Week 09
+permalink: /weeks/09-TWAS/
 doodle: /PRS_capstone.jpg
 ---
 
