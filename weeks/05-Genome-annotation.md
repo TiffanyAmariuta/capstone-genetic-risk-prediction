@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Week 02
-permalink: /weeks/02-Data/
+title: Week 05
+permalink: /weeks/05-Genome-annotation/
 doodle: /PRS_capstone.jpg
 ---
 
