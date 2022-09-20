@@ -1,6 +1,6 @@
 safe: true
-title: "Capstone Domain: Malware"
+title: "Capstone Domain: Genetic Risk Prediction"
 source: .
 destination: _site
-url: "https://afraenkel.github.io"
-baseurl: "/capstone-malware-domain"
+url: "https://tiffanyamariuta.github.io"
+baseurl: "/genetic-risk-prediction"
