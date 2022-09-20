@@ -16,39 +16,25 @@ This week's assignments will guide you through the following topics:
 ## Reading
 
 Please read the following:
-* [Introduction to Malware](https://www.greycampus.com/blog/information-security/introduction-to-malware-definition-attacks-types-and-analysis)
-* Wired's article [Android's Malware Problem](https://www.wired.com/story/android-malware-app-defense-alliance/)
 * [First paper to introduce polygenic risk scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912837/)
-  (Read the Introduction)
+  (Read up to the paragraph discussing Figure 2)
+* [First paper to call clinical attention to polygenic risk scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6128408/)
+  (Read up to the paragraph discussing Table 2)
+* [First paper to call attention to racial bias in availability of clincially relevant polygenic risk scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6563838/)
+  (Read all main text)
 
 ## Tasks
 
-Find your favorite python file and sketch out how you would train an
-n-gram model on it (or actually try it!). Things you should consider
-are:
-* how would you tokenize it? (what do you consider a word?)
-* what would you consider a sentence or paragraph?
-* What *syntactic* structure would you likely pick up and what would
-  it miss? (What would co-occur with a function definition, for
-  example?).
-  
-If you actually tried this, train it on python projects from github
-repositories. Use your language model to generate code and see how it
-fails to run!
-
-**Note:** Recently, the success of *transformers* in language modeling
-has been capable of understanding computer code surprisingly well, by
-essentially throwing massive amounts of computation power at the
-problem.
+Download the 1000 Genomes genotype and phenotype data:
+* what are the file extensions of the genotype data versus the phenotype data?
+* what are the different fields of the genotype data?
+* what software is commonly used by the genetics community to work with these file types?
 
 ## Weekly Questions
 
-Answer the following questions on Canvas:
+Answer the following questions on Gradescope:
 
-* How is learning computer code different than typical approachs to
-  NLP (e.g. n-gram models)? What would an NLP model fail to learn?
-  Give an example.
-* What are the different ways Malware might attack a mobile device
-  through an application?
-* What are the primary ways of analyzing source code for evidence of Malware?
+* In what ways can polygenic risk scores be utilized for preventive care? 
+* What are your favorite two reasons that polygenic risk scores are not ready to be deployed yet in the clinic?
+
 
