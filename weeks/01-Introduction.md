@@ -2,10 +2,10 @@
 layout: week
 title: Week 01
 permalink: /weeks/01-Introduction/
-doodle: /doodle.png
+doodle: /PRS_capstone.jpg
 ---
 
-# Introduction to Code-Understanding and Malware
+# Introduction to statistical genetics: genetic risk scores
 
 ## Topics
 
@@ -18,7 +18,7 @@ This week's assignments will guide you through the following topics:
 Please read the following:
 * [Introduction to Malware](https://www.greycampus.com/blog/information-security/introduction-to-malware-definition-attacks-types-and-analysis)
 * Wired's article [Android's Malware Problem](https://www.wired.com/story/android-malware-app-defense-alliance/)
-* [Hindroid](https://www.cse.ust.hk/~yqsong/papers/2017-KDD-HINDROID.pdf)
+* [First paper to introduce polygenic risk scores](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3912837/)
   (Read the Introduction)
 
 ## Tasks
