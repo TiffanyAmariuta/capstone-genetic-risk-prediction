@@ -1,7 +1,7 @@
 ---
 layout: week
-title: Week 02
-permalink: /weeks/02-Data/
+title: Week 08
+permalink: /weeks/08-Tissue-Specificity/
 doodle: /PRS_capstone.jpg
 ---
 
