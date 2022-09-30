@@ -12,7 +12,7 @@ doodle: /PRS_capstone.jpg
 This week's assignments will guide you through the following topics:
 * Why genotyping data is heavily protected due to reidentification issues. 
 * How next gen sequencing is used to genotype samples for genetic analysis. 
-* Implications of rare (< 1%), low frequency (1%-5%), and common alleles (>5%) on disease. 
+* Implications of rare (< 1 percent), low frequency (1 - 5 percent), and common alleles (> 5 percent) on disease. 
 
 ## Reading
 
