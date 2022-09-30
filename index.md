@@ -63,7 +63,7 @@ end of the quarter.
 |Week|Topic|
 |--|--|
 |1|[Introduction to statistical genetics: genetic risk scores]({{ "weeks/01-Introduction" | absolute_url }})|
-|2|[Understanding the data: genotyping and phenotyping]({{ "/weeks/02-Data" | absolute_url }})|
+|2|[Methods and analysis of genotyping + introduction to population genetics]({{ "/weeks/02-Data" | absolute_url }})|
 |3|[eQTL discovery: associating genotype and gene expression]({{ "/weeks/03-eQTL-discovery" | absolute_url }})|
 |4|[Fine-mapping eQTLs using linkage disequilibrium]({{ "/weeks/04-Fine-mapping" | absolute_url }})|
 |5|[Genomic annotation of eQTLs]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
