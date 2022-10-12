@@ -17,13 +17,15 @@ Please read the following:
   (Read the whole paper - it is very integral to our replication project)
 * [Identification of cis-eQTLs in single cell data (new model considerations)](https://pubmed.ncbi.nlm.nih.gov/35545678/)
   (Just take a look at the methods section and compare to the models used in the GTEx paper)
+* [Regarding formatting a scientific paper](https://www.sciencedirect.com/science/article/pii/S0002929720300781)
+  (Just take a look at how the paper is structured, e.g. abstract, introduction, methods, results, discussion)
 
 ## Tasks
 
-* [Download gene expression data using in Lappalainen 2013 Nature to your remote server using wget](https://www.ebi.ac.uk/arrayexpress/experiments/E-GEUV-3/files/analysis_results/)
-Select GD462.GeneQuantRPKM.50FN.samplename.resk10.txt.gz
+* [Download gene expression data using in Lappalainen 2013 Nature to your remote server using wget](https://www.ebi.ac.uk/arrayexpress/files/E-GEUV-3/GD462.GeneQuantRPKM.50FN.samplename.resk10.txt.gz)
+* [Download genotype data for Phase 1 of 1000Genomes used in Lappalainen 2013 Nature to your remote server using wget](http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20110521/ALL.chr22.phase1_release_v3.20101123.snps_indels_svs.genotypes.vcf.gz.tbi)
 * Using the 1000Genomes genotype data and this gene expression data, match the sample IDs of the individuals between the two datasets. 
-* Run an eQTL analysis for a single SNP-gene pair of your chosing. Using R, python, or something similar perform a linear regression of gene expression on genotype across individuals. Note, R has convenient functions to read plink genotype files. 
+* Run an eQTL analysis for a single SNP-gene pair of your chosing. Using R, python, or something similar perform a linear regression of gene expression on genotype across individuals. Note, R has convenient functions to read plink genotype files; to use this functionality, you will need to convert the VCF file to plink files. Also note that we will eventually be doing a genome-wide cis eQTL analysis on SNPs, so you can remove variants that are not biallelic if they exist in this dataset. 
 
 ## Weekly Questions
 
