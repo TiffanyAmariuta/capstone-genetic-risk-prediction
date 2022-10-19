@@ -21,13 +21,13 @@ Feel free to reread the GTEx paper and take a look at the methods section (locat
 ## Quarter 1 Project Paper Outline 
 
 * Part 1: Identify ciseQTLs 
-    ** a. across all genes (n = 20K)
-    ** b. in each tissue (n = 49)
-    ** c. in EA (European American) and AA (African American) individuals separately (n = 2 pops). 
+    * a. across all genes (n = 20K)
+    * b. in each tissue (n = 49)
+    * c. in EA (European American) and AA (African American) individuals separately (n = 2 pops). 
 * Part 2: Assess the tissue-specificity of eQTLs
-    ** a. how many eQTL are found in one tissue, in two tissues, etc.
+    * a. how many eQTL are found in one tissue, in two tissues, etc.
 * Part 3: Assess the population-specificity of eQTLs
-    ** a. how many eQTL are found in only EA, only AA, or EA and AA. 
+    * a. how many eQTL are found in only EA, only AA, or EA and AA. 
 
 *Note, all of these analyses are different flavors of performing a single cis eQTL analysis which hopefully you all will have done by next week. 
 
