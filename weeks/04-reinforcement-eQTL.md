@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Week 04
-permalink: /weeks/04-Fine-mapping/
+permalink: /weeks/04-reinforcement-eQTL/
 doodle: /PRS_capstone.jpg
 ---
 
