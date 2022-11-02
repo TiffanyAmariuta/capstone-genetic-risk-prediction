@@ -5,8 +5,6 @@ permalink: /weeks/06-Genetic-risk-scores/
 doodle: /PRS_capstone.jpg
 ---
 
-# Data: TBD
-
 ## Topics
 
 This week's assignments will guide you through the following topics:
