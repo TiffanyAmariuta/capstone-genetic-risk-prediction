@@ -67,7 +67,7 @@ end of the quarter.
 |3|[eQTL discovery: associating genotype and gene expression]({{ "/weeks/03-eQTL-discovery" | absolute_url }})|
 |4|[Reinforcing what we have learned about identifying cis eQTLs]({{ "/weeks/04-reinforcement-eQTL" | absolute_url }})|
 |5|[Genomic annotation of eQTLs]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
-|6|[Building genetic risk scores across individuals]({{ "/weeks/06-Genetic-risk-scores" | absolute_url }})|
+|6|[Fine-mapping: From Association to (putative) Causation]({{ "/weeks/06-Fine-Mapping" | absolute_url }})|
 |7|[Do eQTLs explain genetic associations from GWAS?]({{ "/weeks/07-Colocalization" | absolute_url }})|
 |8|[Tissue-specificity of eQTLs]({{ "/weeks/08-Tissue-specificity" | absolute_url }})|
 |9|[Transcriptome-wide association studies]({{ "/weeks/09-TWAS" | absolute_url }})|
