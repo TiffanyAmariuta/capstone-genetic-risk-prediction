@@ -9,8 +9,9 @@ doodle: /PRS_capstone.jpg
 
 This week's assignments will guide you through the following topics:
 * Querying linkage disequilibrium between variants. 
-* Fine-mapping cis-eQTL loci to identify several (usually 1-5) putative causal cis-eQTLs. 
-* Functional fine-mapping with PAINTOR, using ATAC-seq from ENCODE as input. 
+* Plotting cis-eQTL associations per gene locus using LocusZoom, a very popular software that researchers use when making manuscript figures. 
+* If you finish this week's assignment too quickly, feel free to read up on fine-mapping of cis-eQTL association data, using CAVIAR (http://genetics.cs.ucla.edu/caviar/). For example, feed in your cis-eQTL association data and the 1000Genomes genotype files to figure out which associated variants are likely to be causal in a gene locus.
+* In the following weeks, we will discuss fine-mapping cis eQTLs and colocalization with GWAS summary statistics. 
 
 ## Reading
 
@@ -33,6 +34,7 @@ Answer the following questions on Gradescope:
 * For any one gene locus, how many cis-eQTLs have LD r2 > 0.8 with the lead variant? 
 * For any one gene locus, how many cis-eQTLs have LD r2 > 0.5 with the lead variant? 
 * For any one gene locus, how many cis-eQTLs have LD r2 > 0.1 with the lead variant? 
+* Please include a LocusZoom plot for your favorite gene locus. 
 
 
 
