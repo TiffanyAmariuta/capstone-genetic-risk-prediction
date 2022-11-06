@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Week 06
-permalink: /weeks/06-Genetic-risk-scores/
+permalink: /weeks/06-Visualization/
 doodle: /PRS_capstone.jpg
 ---
 
