@@ -68,7 +68,7 @@ end of the quarter.
 |4|[Reinforcing what we have learned about identifying cis eQTLs]({{ "/weeks/04-reinforcement-eQTL" | absolute_url }})|
 |5|[Genomic annotation of eQTLs]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
 |6|[Visualization of cis eQTL associations]({{ "/weeks/06-Visualization" | absolute_url }})|
-|7|[Do eQTLs explain genetic associations from GWAS?]({{ "/weeks/07-Colocalization" | absolute_url }})|
+|7|[Creating manuscript-ready figures]({{ "/weeks/07-ManuscriptFigures" | absolute_url }})|
 |8|[Tissue-specificity of eQTLs]({{ "/weeks/08-Tissue-specificity" | absolute_url }})|
 |9|[Transcriptome-wide association studies]({{ "/weeks/09-TWAS" | absolute_url }})|
 |10|Present Proposals|
