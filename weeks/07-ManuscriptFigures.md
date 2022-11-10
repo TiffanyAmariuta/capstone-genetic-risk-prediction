@@ -15,7 +15,7 @@ There are no manuscript reading assignments this week. As far as plotting, I'd l
 
 * box and whisker plots (e.g. to show an example of a significant cis-eQTL: plot gene expression on y-axis and genotypes (0,1,2 or AA/AT/TT or relevant alleles) on x-axis. 
 
-![BoxWhisker](https://user-images.githubusercontent.com/16988228/200968944-8edda7a5-372f-41a2-b507-d568a6f68d14.jpg | width=100)
+<img src="https://user-images.githubusercontent.com/16988228/200968944-8edda7a5-372f-41a2-b507-d568a6f68d14.jpg" width=50% height=50%>
 
 
 * barplot (e.g. to show the total number of cis-eQTLs you find in each super population: plot number of cis-eQTLs on y-axis and super population on x-axis) Another example of a barplot would be to show how many cis-eQTLs overlap gene promoters, gene exons, gene introns, intergenic regions, or ATAC-seq peaks from ENCODE. 
