@@ -69,7 +69,7 @@ end of the quarter.
 |5|[Genomic annotation of eQTLs]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
 |6|[Visualization of cis eQTL associations]({{ "/weeks/06-Visualization" | absolute_url }})|
 |7|[Creating manuscript-ready figures]({{ "/weeks/07-ManuscriptFigures" | absolute_url }})|
-|8|[Tissue-specificity of eQTLs]({{ "/weeks/08-Tissue-specificity" | absolute_url }})|
+|8|[Preparation of Manuscripts and Project Proposals]({{ "/weeks/08-Preparation" | absolute_url }})|
 |9|[Transcriptome-wide association studies]({{ "/weeks/09-TWAS" | absolute_url }})|
 |10|Present Proposals|
 
