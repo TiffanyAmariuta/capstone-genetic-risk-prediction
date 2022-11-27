@@ -70,7 +70,7 @@ end of the quarter.
 |6|[Visualization of cis eQTL associations]({{ "/weeks/06-Visualization" | absolute_url }})|
 |7|[Creating manuscript-ready figures]({{ "/weeks/07-ManuscriptFigures" | absolute_url }})|
 |8|[Preparation of Manuscripts and Project Proposals]({{ "/weeks/08-Preparation" | absolute_url }})|
-|9|[Transcriptome-wide association studies]({{ "/weeks/09-TWAS" | absolute_url }})|
+|9|[Domain Topics for Q2 Projects]({{ "/weeks/09-Q2Topics" | absolute_url }})|
 |10|Present Proposals|
 
 ---
