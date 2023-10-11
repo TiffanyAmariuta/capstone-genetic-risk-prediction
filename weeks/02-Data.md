@@ -26,10 +26,12 @@ Please read the following:
 
 ## Tasks
 TO DO: Download plink from [HERE](https://www.cog-genomics.org/plink/2.0/)
+Choose the correct Development (5 Oct) version of plink for your machine. You will need to unzip the downloaded file for the plink2 executable to be usable.
+You can test it by running ./plink2 in the directory where you downloaded it. 
 
-Using the 1000 Genomes genotype data:
-* how many alleles are common (MAF > 5%); how many alleles are of low frequency (1% < MAF < 5%) or rare (MAF < 1%)?
-* if you stratify the individuals in 1000 Genomes based on ancestry and make a list of common alleles for each ancestry, what is the overlap across populations?
+Using the 1000 Genomes genotype data downloaded from the LDREF [link](https://data.broadinstitute.org/alkesgroup/FUSION/LDREF.tar.bz2):
+* How many alleles are common (MAF > 5%); how many alleles are of low frequency (1% < MAF < 5%) or rare (MAF < 1%)? Note, you could either use plink2 to compute allele frequencies using bed/bim/fam files. Or you could check out the .frq (frequency) files.
+* How many people in the plink genotype files have gene expression measured in the expression dataset? 
 
 ## Weekly Questions
 
