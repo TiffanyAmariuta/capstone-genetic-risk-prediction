@@ -30,7 +30,7 @@ Choose the correct Development (5 Oct) version of plink for your machine. You wi
 You can test it by running ./plink2 in the directory where you downloaded it. 
 
 Using the 1000 Genomes genotype data downloaded from the LDREF [link](https://data.broadinstitute.org/alkesgroup/FUSION/LDREF.tar.bz2):
-* How many alleles are common (MAF > 5%); how many alleles are of low frequency (1% < MAF < 5%) or rare (MAF < 1%)? Note, you could either use plink2 to compute allele frequencies using bed/bim/fam files. Or you could check out the .frq (frequency) files.
+* What proportion of alleles are common (MAF > 5%); how many alleles are of low frequency (1% < MAF < 5%) or rare (MAF < 1%)? Note, you could either use plink2 to compute allele frequencies using bed/bim/fam files. Or you could check out the .frq (frequency) files. Feel free to only do this on one chromosome if you're in a crunch for time! 
 * How many people in the plink genotype files have gene expression measured in the expression dataset? 
 
 ## Weekly Questions
