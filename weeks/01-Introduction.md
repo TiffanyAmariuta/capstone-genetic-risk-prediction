@@ -25,7 +25,7 @@ Please read the following:
 
 ## Tasks
 
-Download the 1000 Genomes genotype and phenotype data:
+Download the 1000 Genomes [genotype](https://data.broadinstitute.org/alkesgroup/FUSION/LDREF.tar.bz2) and phenotype (ask Tiffany for data over Slack: GD462.GeneQuantRPKM.50FN.samplename.resk10.txt.gz) data:
 * what are the file extensions of the genotype data versus the phenotype data?
 * what are the different fields of the genotype data?
 * what software is commonly used by the genetics community to work with these file types?
