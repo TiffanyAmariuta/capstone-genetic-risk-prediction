@@ -28,9 +28,8 @@ Please read the following:
 TO DO: Download plink from [HERE](https://www.cog-genomics.org/plink/2.0/)
 
 Using the 1000 Genomes genotype data:
-* TO DO: convert the chromosome 15 VCF file to a trio of plink files with .bed/.bim/.fam extensions. 
-* how many alleles are common; how many alleles are of low frequency or rare?
-* if you stratify the individual in 1000 Genomes based on ancestry and make a list of common alleles for each ancestry, what is the overlap across populations?
+* how many alleles are common (MAF > 5%); how many alleles are of low frequency (1% < MAF < 5%) or rare (MAF < 1%)?
+* if you stratify the individuals in 1000 Genomes based on ancestry and make a list of common alleles for each ancestry, what is the overlap across populations?
 
 ## Weekly Questions
 
