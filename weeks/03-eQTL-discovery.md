@@ -23,15 +23,18 @@ Please read the following:
 ## Tasks
 
 * Using the 1000Genomes genotype data and this gene expression data, match the sample IDs of the individuals between the two datasets. 
-* Run an eQTL analysis for a single SNP-gene pair of your chosing. Using R, python, or something similar perform a linear regression of gene expression on genotype across individuals. Note, R has convenient functions to read plink genotype files; to use this functionality, you will need to convert the VCF file to plink files. Also note that we will eventually be doing a genome-wide cis eQTL analysis on SNPs, so you can remove variants that are not biallelic if they exist in this dataset. 
+* Run an eQTL analysis for a single gene of your chosing. For this gene, select only the SNPs within +/- 500 kb of the gene body (you can use gene_annot.txt.gz as the master list of all genes genome-wide). You can select these SNPs by using plink with the --extract bed1 flag. For example: plink2 --bfile 1000G.EUR.15 --extract bed1 $my_coord --out 1000G.EUR.15.GeneX --make-bed (in this case, $my_coord is a single line 6-column tab delimited text file with the genomic coordinates of the +/- 500 kb window around your gene of interest, for example, chr15 200000 1200000 mygene 0 +
+* You can use different software to run an eQTL analysis. For example, fastQTL is a user-friendly software although I haven't used it before. I prefer to use simple linear regression models in R or python and use a for loop or an apply() function. In R, you can use the lm() function as follows: lm(y_gene_expression ~ genotype_snp_j). If you use R, you can use the plink2R library and the read_plink function to read a .bed plink file of genotypes: genos = read_plink("1000G.EUR.15.bed",impute="avg")
+* Bonus: to visualize the results of an eQTL analysis, we like to plot the -log10 p-value of the linear regression (y-axis) versus the genomic coordinate of the SNP (x-axis). This is known as a locusZoom plot (http://locuszoom.org/).
 
 ## Weekly Questions
 
 Answer the following questions on Gradescope:
 
-* What is an example of pleiotropy?
-* Do eQTL tend to be shared across cell types? 
-* What is the average heritability of gene expression? 
+* What does pleiotropy mean?
+* Do eQTL tend to be shared across cell types?
+* How many SNPs tend to be in a 1 Mb window around a gene? 
+
 
 
 
