@@ -8,6 +8,7 @@ doodle: /PRS_capstone.jpg
 ## Topics
 
 This week's assignments will guide you through the following topic:
+
 * genomic annotation using high throughput experimental approaches to understand the cellular and biological context of cis-eQTLs
 
 ## Reading
