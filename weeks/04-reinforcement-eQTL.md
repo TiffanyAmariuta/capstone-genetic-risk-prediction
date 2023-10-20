@@ -33,6 +33,5 @@ The purpose of this week's questions are to prepare you for the checkpoint. Plea
 * What would be a good title for a paper about the analysis we are trying to do in this capstone?
 * What will you include in the introduction to this paper? (think about defining what an eQTL is, what a genetic risk score is, and what a genome-wide association study is, and what we stand to learn about disease biology from these)
 * What was the distribution of correlation of true gene expression and predicted gene expression across genes in 1000 Genomes? 
-* Plot the distribution of predicted gene expression for one gene across 1000 Genomes individuals, and indicate where Tiffany's predicted expression lies.
 
 
