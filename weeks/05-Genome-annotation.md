@@ -20,6 +20,9 @@ Please read the following:
 
 ## Tasks
 
+* Download genome-wide summary statistics for a trait of your choosing from my Github page (https://github.com/TiffanyAmariuta/TCSC/tree/main/sumstats), perform pruning and thresholding using a fixed threshold (p = 10 x 10^-4) because we cannot optimize this without the individual level data.
+* Generate a PRS for each 1000 Genome individual and using Tiffany's genetic data (could merge Tiffany's plink file with 1KG plink files so you only need to run a single script to generate the PRS).
+* Plot the distribution of predicted phenotype (PRS) for the 1KG individuals and report what Tiffany's relative risk for the trait/disease is. 
 * [Download the following ATAC-seq dataset for B cells from the ENCODE website (should be 6-column bed file format)](https://www.encodeproject.org/experiments/ENCSR603LVR/) Click on the file details tab, download ENCFF421XIL (bed narrowPeak file). 
 * Intersect the genomic positions of this functional annotation with the variants and genes you have been looking at in your cis-eQTL models. Is there any overlap? For example, take a gene's chromosome and genomic start and end positions (base pairs) and see if there are any open chromatin peaks in this area based on the chromosome and genomic start and end positions of the ATAC-seq peaks in the file above. 
 
