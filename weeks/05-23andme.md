@@ -18,8 +18,8 @@ Please read the following:
 
 ## Tasks
 
-* Convert Tiffany's 23andme data to VCF and plink files using this tutorial: https://samtools.github.io/bcftools/howtos/convert.html
-* Download genome-wide summary statistics for a trait of your choosing (height is a great option) from my Github page (https://github.com/TiffanyAmariuta/TCSC/tree/main/sumstats), perform pruning and thresholding using a fixed threshold (p = 10 x 10^-4) because we cannot optimize this without the individual level data like we did for 1000 Genomes data.
+* Convert Tiffany's 23andme data to VCF and plink files using this [tutorial](https://samtools.github.io/bcftools/howtos/convert.html).
+* Download genome-wide summary statistics for a trait of your choosing (height is a great option) from my Github [page](https://github.com/TiffanyAmariuta/TCSC/tree/main/sumstats), perform pruning and thresholding using a fixed threshold (p = 10 x 10^-4) because we cannot optimize this without the individual level data like we did for 1000 Genomes data.
 * Generate a PRS for each 1000 Genome individual and using Tiffany's genetic data (could merge Tiffany's plink file with 1KG plink files so you only need to run a single script to generate the PRS).
 * Plot the distribution of predicted phenotype (PRS) for the 1KG individuals and report what Tiffany's relative risk for the trait/disease is. 
 
