@@ -65,8 +65,8 @@ end of the quarter.
 |1|[Introduction to statistical genetics: genetic risk scores]({{ "weeks/01-Introduction" | absolute_url }})|
 |2|[Methods and analysis of genotyping + introduction to population genetics]({{ "/weeks/02-Data" | absolute_url }})|
 |3|[eQTL discovery: associating genotype and gene expression]({{ "/weeks/03-eQTL-discovery" | absolute_url }})|
-|4|[Reinforcing what we have learned about identifying cis eQTLs]({{ "/weeks/04-reinforcement-eQTL" | absolute_url }})|
-|5|[Genomic annotation of eQTLs]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
+|4|[Scaling up a cis eQTL analysis and generating PRS from eQTL summary data]({{ "/weeks/04-reinforcement-eQTL" | absolute_url }})|
+|5|[Generating PRS from GWAS disease summary statistics]({{ "/weeks/05-Genome-annotation" | absolute_url }})|
 |6|[Visualization of cis eQTL associations]({{ "/weeks/06-Visualization" | absolute_url }})|
 |7|[Creating manuscript-ready figures]({{ "/weeks/07-ManuscriptFigures" | absolute_url }})|
 |8|[Preparation of Manuscripts and Project Proposals]({{ "/weeks/08-Preparation" | absolute_url }})|
