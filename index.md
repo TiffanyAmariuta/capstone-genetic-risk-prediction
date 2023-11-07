@@ -68,7 +68,7 @@ end of the quarter.
 |4|[Scaling up a cis eQTL analysis and generating PRS from eQTL summary data]({{ "/weeks/04-reinforcement-eQTL" | absolute_url }})|
 |5|[Generating PRS from GWAS disease summary statistics]({{ "/weeks/05-23andme" | absolute_url }})|
 |6|[Visualization of cis eQTL associations]({{ "/weeks/06-Visualization" | absolute_url }})|
-|7|[Creating manuscript-ready figures]({{ "/weeks/07-ManuscriptFigures" | absolute_url }})|
+|7|[Integrating Genomics with Genetic Associations]({{ "/weeks/07-GenomicAnnotation" | absolute_url }})|
 |8|[Preparation of Manuscripts and Project Proposals]({{ "/weeks/08-Preparation" | absolute_url }})|
 |9|[Domain Topics for Q2 Projects]({{ "/weeks/09-Q2Topics" | absolute_url }})|
 |10|Present Proposals|
