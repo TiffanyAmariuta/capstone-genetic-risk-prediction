@@ -1,7 +1,7 @@
 ---
 layout: week
 title: Week 07
-permalink: /weeks/07-ManuscriptFigures/
+permalink: /weeks/07-GenomicAnnotation/
 doodle: /PRS_capstone.jpg
 ---
 
