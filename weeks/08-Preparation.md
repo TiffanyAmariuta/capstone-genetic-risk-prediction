@@ -7,7 +7,7 @@ doodle: /PRS_capstone.jpg
 
 ## Topics
 
-This week, please work on your quarter 1 projects and the writeup of your quarter 2 project proposal with your teammates. Everyone should be in a group of 2-4; 4 would be great so then we'll have exactly two groups of the same size in our section. Remember, once you pick your Q2 teammates, they cannot be changed. 
+This week, please work on your quarter 1 projects and the writeup of your quarter 2 project proposal with your teammates. Everyone should be in a group of 2-4; 3 would be great so then we'll have exactly two groups of the same size in our section. Remember, once you pick your Q2 teammates, they cannot be changed. 
 
 
 ## Tasks
