@@ -11,30 +11,32 @@ This week's assignments will guide you through the following topics depending on
 
 ## Reading
 
-For everyone, please read the following papers on eQTL fine-mapping and enrichment analysis: 
-* [CAVIAR eQTL fine-mapping manuscript](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4196608/)
-  (Read these sections: Introduction, Results: Overview of statistical fine mapping, Materials and Methods: The traditional fine-mapping study approach, Data-generating model for fine-mapping studies up to "maximizing the likelihood function", Optimization, Incorporating functional data as a prior into CAVIAR) [CAVIAR software](http://genetics.cs.ucla.edu/caviar/)
-* [Enrichment of cis-eQTLs in functional annotations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6506796/) (Read these sections: Materials and Methods: cis-eQTL Causal Variation Enrichment, Results: Improved Enrichment of Gene Expression Causal Variation)
-* [Enrichment of cis-eQTLs in GWAS](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7737656/) (Read these sections: Genetic regulatory effects mediate complex trait associations (Figure 5 A shows enrichment results), Supplement: section 13.3.1 Overrepresentation of eVariants/sVariants among GWAS catalog variants )
+For the team of Gurman, Lihao, and Anton, please consult the follwing reading materials: 
+* [SuSiE fine-mapping](https://stephenslab.github.io/susieR/articles/finemapping_summary_statistics.html)
+* [An example research study using SuSiE](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9009299/) (Read sections pertaining to the use of SuSiE and parameters that were set)
+* [Gene Burden Testing](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6174288/) (This paper has a convenient R script for computing the burden of a gene)
 
-For the team of Samuel, Jacqueline, Esha, and Moksha, please read the following paper on TWAS: 
-* [TWAS method](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4767558/)
-
-For the team of Andrew, Karthik, Maddie, and Michael, please read the following papers on genome assembly and gene set enrichment analysis (GSEA):
-* [Release of CHM13](https://www.science.org/doi/10.1126/science.abj6987)
-* [GSEA](https://www.pnas.org/doi/10.1073/pnas.0506580102)
+For the team of John, Tyler, and Ethan, please consult the following reading materials: 
+* [COLOC software](https://chr1swallace.github.io/coloc/articles/a01_intro.html)
+* [A study that uses the COLOC software](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5374036/) (Consult this paper for parameters to use when running COLOC)
+* [Gene set enrichment analysis software](https://www.gsea-msigdb.org/gsea/index.jsp) 
+* [Evaluating the importance of gene sets](https://www.pnas.org/doi/10.1073/pnas.0506580102) (Consult this paper for how to interpret the gene sets you will find from performing PCA on a matrix of genes x traits/diseases with colocalization statistics)
+  
 
 ## Tasks
 
 Complete the following tasks:
+For the team of Gurman, Lihao, and Anton: 
+* Install the SuSiE R package and experiment with it by following the vignette
+* Acquire genome-wide GWAS summary statistics for multiple traits/diseases of interest
+* Identify a gene burden testing software of choice, or write your own script based on our conversation in class.
+  
+For the team of John, Tyler, and Ethan: 
 
-* Download the [CAVIAR software](http://genetics.cs.ucla.edu/caviar/) and get it to run on one gene locus. 
-* For the team of Samuel, Jacqueline, Esha, and Moksha, download [TWAS software](http://gusevlab.org/projects/fusion/) and understand what input files you will need to run it. 
-* For the team of Andrew, Karthik, Maddie, and Michael, download [GSEA software](https://www.gsea-msigdb.org/gsea/index.jsp) and understand what input files you will need to run it. 
+* Install the COLOC software and supply two summary statistics results from eQTL analysis that you've already run for 2 genes just to make sure it runs.
+* Acquire genome-wide GWAS summary statistics for multiple traits/diseases of interest
+* Install the gene set enrichment analysis software and provide a random set of genes just to make sure it runs.
 
 ## Weekly Questions
 
-Answer the following questions on Gradescope:
-* From Hormozdiari 2014 Genetics, why do we want to perform fine-mapping on cis-eQTL associations?
-* For the team of Samuel, Jacqueline, Esha, and Moksha, what can TWAS tell you about the relationship between gene expression and disease?
-* For the team of Andrew, Karthik, Maddie, and Michael, what can GSEA tell you about the relationship between genes sharing a similar feature profile?
+On Gradescope, describe your progress with the software installation required for each group and report a table of the GWAS summary statistics you found on the GWAS catalog website, including the citation for the study, the year, the first author, the sample size, and the name of the trait/disease. 
