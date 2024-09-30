@@ -5,7 +5,7 @@ doodle: "/PRS_capstone.jpg"
 permalink: /
 ---
 
-Data science capstone domain of inquiry (DSC 180AB A17 2022-2023)
+Data science capstone domain of inquiry (DSC 180AB 2024-2025)
 
 Developed by Tiffany Amariuta.
 
@@ -77,7 +77,7 @@ end of the quarter.
 
 # Office Hours
 
-Mondays 1-2PM, Franklin Antonio Hall, 2nd floor south-west collaboratory
+Alternating between Friday 11AM-12PM and Thursday 2-3PM, Franklin Antonio Hall, 2nd floor south-west collaboratory 2101.
 
 
 
